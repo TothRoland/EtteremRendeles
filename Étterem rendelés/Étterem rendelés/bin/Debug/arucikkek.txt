@@ -1,0 +1,50 @@
+Marhahús pörkölt;29;2200
+Zöldséges quinoa saláta;25;1300
+Rakott krumpli;30;2000
+Sajtos csirkemell;20;2000
+Paradicsomos húsos lasagne;37;2800
+Csirke curry rizzsel;26;2000
+Csülkös babgulyás;43;2300
+Húsos káposztafőzelék;30;2200
+Sertés steak zöldséges körettel;34;2600
+Tárkonyos csirke ragu;21;1500
+Zöldséges húsgombóc leves;15;1500
+Paprikás krumpli kolbásszal;30;2200
+Tojásos zöldséges rizs;25;1800
+Csirkés édes-savanyú wok;20;1500
+Húsleves csigatésztával;15;1200
+Sült csirkecomb petrezselymes krumplival;30;2200
+Rántott sertéskaraj zöldséges rizzsel;35;2600
+Rakott padlizsán;25;1900
+Csirke paprikás tejfölös tésztával;30;2200
+Sajtos csirkés rizottó;25;1800
+Párolt zöldségek sült hallal;35;2500
+Pulykamell steak párolt zöldségekkel;30;2200
+Tejfölös gombapaprikás tésztával;20;1500
+Húsgombóc leves zöldségekkel;15;1200
+Sertés sült édesburgonyával;27;2600
+Csirke zöldséges curryvel és rizzsel;30;2200
+Húsos palacsinta gombával;25;1800
+Rakott karfiol sonkával és sajttal;30;2200
+Zöldséges tészta sajttal;25;1800
+Sertésborda zöldséges rizzsel;35;2600
+Zöldséges csirkeragu galuskával;20;1500
+Brokkolis sült tészta;5;1200
+-
+Sajtos-szalámis pizza;2800
+Rakott burgonya sonkával és sajttal;2200
+Padlizsános-paradicsomos tészta;1800
+Csirke zöldborsóval és rizzsel;2200
+Káposztás tészta savanyú káposztával;1800
+Rántott csirkemell zöldséges rizzsel;2600
+Sertés steak sütőtökös körettel;2500
+Rakott húsos krumpli;2900
+Zöldséges húsragu tésztafélével;2200
+Fokhagymás sült csirkemell párolt zöldségekkel;2200
+Húsos tészta paradicsomszósszal;1800
+Sajtos húsos tepsis tészta;2800
+Sertéspörkölt galuskával;2600
+Zöldséges quiche sonkával és sajttal;1800
+Rakott húsos padlizsán;2800
+Zöldséges sült csirkecomb párolt rizzsel;2200
+Rántott hal sült burgonyával;2200

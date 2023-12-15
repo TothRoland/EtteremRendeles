@@ -1,0 +1,69 @@
+J:\C# projekt\Étterem rendelés\Étterem rendelés\Étterem rendelés\bin\Debug\Étterem rendelés.exe.config
+J:\C# projekt\Étterem rendelés\Étterem rendelés\Étterem rendelés\bin\Debug\Étterem rendelés.exe
+J:\C# projekt\Étterem rendelés\Étterem rendelés\Étterem rendelés\bin\Debug\Étterem rendelés.pdb
+J:\C# projekt\Étterem rendelés\Étterem rendelés\Étterem rendelés\obj\Debug\Étterem rendelés.csproj.AssemblyReference.cache
+J:\C# projekt\Étterem rendelés\Étterem rendelés\Étterem rendelés\obj\Debug\Étterem_rendelés.Form1.resources
+J:\C# projekt\Étterem rendelés\Étterem rendelés\Étterem rendelés\obj\Debug\Étterem_rendelés.Properties.Resources.resources
+J:\C# projekt\Étterem rendelés\Étterem rendelés\Étterem rendelés\obj\Debug\Étterem rendelés.csproj.GenerateResource.cache
+J:\C# projekt\Étterem rendelés\Étterem rendelés\Étterem rendelés\obj\Debug\Étterem rendelés.csproj.CoreCompileInputs.cache
+J:\C# projekt\Étterem rendelés\Étterem rendelés\Étterem rendelés\obj\Debug\Étterem rendelés.exe
+J:\C# projekt\Étterem rendelés\Étterem rendelés\Étterem rendelés\obj\Debug\Étterem rendelés.pdb
+C:\Munka\Étterem rendelés\Étterem rendelés\Étterem rendelés\bin\Debug\Étterem rendelés.exe.config
+C:\Munka\Étterem rendelés\Étterem rendelés\Étterem rendelés\bin\Debug\Étterem rendelés.exe
+C:\Munka\Étterem rendelés\Étterem rendelés\Étterem rendelés\bin\Debug\Étterem rendelés.pdb
+C:\Munka\Étterem rendelés\Étterem rendelés\Étterem rendelés\obj\Debug\Étterem rendelés.csproj.AssemblyReference.cache
+C:\Munka\Étterem rendelés\Étterem rendelés\Étterem rendelés\obj\Debug\Étterem_rendelés.Form1.resources
+C:\Munka\Étterem rendelés\Étterem rendelés\Étterem rendelés\obj\Debug\Étterem_rendelés.Properties.Resources.resources
+C:\Munka\Étterem rendelés\Étterem rendelés\Étterem rendelés\obj\Debug\Étterem rendelés.csproj.GenerateResource.cache
+C:\Munka\Étterem rendelés\Étterem rendelés\Étterem rendelés\obj\Debug\Étterem rendelés.csproj.CoreCompileInputs.cache
+C:\Munka\Étterem rendelés\Étterem rendelés\Étterem rendelés\obj\Debug\Étterem rendelés.exe
+C:\Munka\Étterem rendelés\Étterem rendelés\Étterem rendelés\obj\Debug\Étterem rendelés.pdb
+C:\Users\tothr\Desktop\Étterem rendelés\Étterem rendelés\Étterem rendelés\bin\Debug\Étterem rendelés.exe.config
+C:\Users\tothr\Desktop\Étterem rendelés\Étterem rendelés\Étterem rendelés\bin\Debug\Étterem rendelés.exe
+C:\Users\tothr\Desktop\Étterem rendelés\Étterem rendelés\Étterem rendelés\bin\Debug\Étterem rendelés.pdb
+C:\Users\tothr\Desktop\Étterem rendelés\Étterem rendelés\Étterem rendelés\obj\Debug\Étterem rendelés.csprojAssemblyReference.cache
+C:\Users\tothr\Desktop\Étterem rendelés\Étterem rendelés\Étterem rendelés\obj\Debug\Étterem_rendelés.Form1.resources
+C:\Users\tothr\Desktop\Étterem rendelés\Étterem rendelés\Étterem rendelés\obj\Debug\Étterem_rendelés.Properties.Resources.resources
+C:\Users\tothr\Desktop\Étterem rendelés\Étterem rendelés\Étterem rendelés\obj\Debug\Étterem rendelés.csproj.GenerateResource.cache
+C:\Users\tothr\Desktop\Étterem rendelés\Étterem rendelés\Étterem rendelés\obj\Debug\Étterem rendelés.csproj.CoreCompileInputs.cache
+C:\Users\tothr\Desktop\Étterem rendelés\Étterem rendelés\Étterem rendelés\obj\Debug\Étterem rendelés.exe
+C:\Users\tothr\Desktop\Étterem rendelés\Étterem rendelés\Étterem rendelés\obj\Debug\Étterem rendelés.pdb
+C:\Users\tothr\Desktop\Étterem rendelés\Étterem rendelés\Étterem rendelés\obj\Debug\Étterem_rendelés.Fizetés.resources
+J:\C# projekt\Rendeles-main\Rendeles-main\Étterem rendelés\Étterem rendelés\bin\Debug\Étterem rendelés.exe.config
+J:\C# projekt\Rendeles-main\Rendeles-main\Étterem rendelés\Étterem rendelés\bin\Debug\Étterem rendelés.exe
+J:\C# projekt\Rendeles-main\Rendeles-main\Étterem rendelés\Étterem rendelés\bin\Debug\Étterem rendelés.pdb
+J:\C# projekt\Rendeles-main\Rendeles-main\Étterem rendelés\Étterem rendelés\obj\Debug\Étterem rendelés.csproj.AssemblyReference.cache
+J:\C# projekt\Rendeles-main\Rendeles-main\Étterem rendelés\Étterem rendelés\obj\Debug\Étterem_rendelés.Form1.resources
+J:\C# projekt\Rendeles-main\Rendeles-main\Étterem rendelés\Étterem rendelés\obj\Debug\Étterem_rendelés.Form2.resources
+J:\C# projekt\Rendeles-main\Rendeles-main\Étterem rendelés\Étterem rendelés\obj\Debug\Étterem_rendelés.Properties.Resources.resources
+J:\C# projekt\Rendeles-main\Rendeles-main\Étterem rendelés\Étterem rendelés\obj\Debug\Étterem rendelés.csproj.GenerateResource.cache
+J:\C# projekt\Rendeles-main\Rendeles-main\Étterem rendelés\Étterem rendelés\obj\Debug\Étterem rendelés.csproj.CoreCompileInputs.cache
+J:\C# projekt\Rendeles-main\Rendeles-main\Étterem rendelés\Étterem rendelés\obj\Debug\Étterem rendelés.exe
+J:\C# projekt\Rendeles-main\Rendeles-main\Étterem rendelés\Étterem rendelés\obj\Debug\Étterem rendelés.pdb
+J:\C# projekt\Rendeles-main\Rendeles-main\Étterem rendelés\Étterem rendelés\obj\Debug\Étterem_rendelés.Form3.resources
+C:\Users\tothr\Desktop\Rendeles-main\Rendeles-main\Étterem rendelés\Étterem rendelés\bin\Debug\Étterem rendelés.exe.config
+C:\Users\tothr\Desktop\Rendeles-main\Rendeles-main\Étterem rendelés\Étterem rendelés\bin\Debug\Étterem rendelés.exe
+C:\Users\tothr\Desktop\Rendeles-main\Rendeles-main\Étterem rendelés\Étterem rendelés\bin\Debug\Étterem rendelés.pdb
+C:\Users\tothr\Desktop\Rendeles-main\Rendeles-main\Étterem rendelés\Étterem rendelés\obj\Debug\Étterem rendelés.csprojAssemblyReference.cache
+C:\Users\tothr\Desktop\Rendeles-main\Rendeles-main\Étterem rendelés\Étterem rendelés\obj\Debug\Étterem_rendelés.Form1.resources
+C:\Users\tothr\Desktop\Rendeles-main\Rendeles-main\Étterem rendelés\Étterem rendelés\obj\Debug\Étterem_rendelés.Form2.resources
+C:\Users\tothr\Desktop\Rendeles-main\Rendeles-main\Étterem rendelés\Étterem rendelés\obj\Debug\Étterem_rendelés.Form3.resources
+C:\Users\tothr\Desktop\Rendeles-main\Rendeles-main\Étterem rendelés\Étterem rendelés\obj\Debug\Étterem_rendelés.Properties.Resources.resources
+C:\Users\tothr\Desktop\Rendeles-main\Rendeles-main\Étterem rendelés\Étterem rendelés\obj\Debug\Étterem rendelés.csproj.GenerateResource.cache
+C:\Users\tothr\Desktop\Rendeles-main\Rendeles-main\Étterem rendelés\Étterem rendelés\obj\Debug\Étterem rendelés.csproj.CoreCompileInputs.cache
+C:\Users\tothr\Desktop\Rendeles-main\Rendeles-main\Étterem rendelés\Étterem rendelés\obj\Debug\Étterem rendelés.exe
+C:\Users\tothr\Desktop\Rendeles-main\Rendeles-main\Étterem rendelés\Étterem rendelés\obj\Debug\Étterem rendelés.pdb
+C:\Users\tothr\Desktop\Rendeles-main\Rendeles-main\Étterem rendelés\Étterem rendelés\obj\Debug\Étterem_rendelés.Form4.resources
+C:\Munka\13c-toth\Rendeles-main-20231215T071346Z-001\Rendeles-main\Rendeles-main\Étterem rendelés\Étterem rendelés\bin\Debug\Étterem rendelés.exe.config
+C:\Munka\13c-toth\Rendeles-main-20231215T071346Z-001\Rendeles-main\Rendeles-main\Étterem rendelés\Étterem rendelés\bin\Debug\Étterem rendelés.exe
+C:\Munka\13c-toth\Rendeles-main-20231215T071346Z-001\Rendeles-main\Rendeles-main\Étterem rendelés\Étterem rendelés\bin\Debug\Étterem rendelés.pdb
+C:\Munka\13c-toth\Rendeles-main-20231215T071346Z-001\Rendeles-main\Rendeles-main\Étterem rendelés\Étterem rendelés\obj\Debug\Étterem rendelés.csproj.AssemblyReference.cache
+C:\Munka\13c-toth\Rendeles-main-20231215T071346Z-001\Rendeles-main\Rendeles-main\Étterem rendelés\Étterem rendelés\obj\Debug\Étterem_rendelés.Form1.resources
+C:\Munka\13c-toth\Rendeles-main-20231215T071346Z-001\Rendeles-main\Rendeles-main\Étterem rendelés\Étterem rendelés\obj\Debug\Étterem_rendelés.Form2.resources
+C:\Munka\13c-toth\Rendeles-main-20231215T071346Z-001\Rendeles-main\Rendeles-main\Étterem rendelés\Étterem rendelés\obj\Debug\Étterem_rendelés.Form3.resources
+C:\Munka\13c-toth\Rendeles-main-20231215T071346Z-001\Rendeles-main\Rendeles-main\Étterem rendelés\Étterem rendelés\obj\Debug\Étterem_rendelés.Form4.resources
+C:\Munka\13c-toth\Rendeles-main-20231215T071346Z-001\Rendeles-main\Rendeles-main\Étterem rendelés\Étterem rendelés\obj\Debug\Étterem_rendelés.Properties.Resources.resources
+C:\Munka\13c-toth\Rendeles-main-20231215T071346Z-001\Rendeles-main\Rendeles-main\Étterem rendelés\Étterem rendelés\obj\Debug\Étterem rendelés.csproj.GenerateResource.cache
+C:\Munka\13c-toth\Rendeles-main-20231215T071346Z-001\Rendeles-main\Rendeles-main\Étterem rendelés\Étterem rendelés\obj\Debug\Étterem rendelés.csproj.CoreCompileInputs.cache
+C:\Munka\13c-toth\Rendeles-main-20231215T071346Z-001\Rendeles-main\Rendeles-main\Étterem rendelés\Étterem rendelés\obj\Debug\Étterem rendelés.exe
+C:\Munka\13c-toth\Rendeles-main-20231215T071346Z-001\Rendeles-main\Rendeles-main\Étterem rendelés\Étterem rendelés\obj\Debug\Étterem rendelés.pdb
